@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pkl
+drives_env/
+/drives_env
+.drives_env
+cle/
+excel/
+scripts/
+fichiers textes/
