@@ -38,7 +38,7 @@ Sinon, se référer à [la documentation de Google](https://developers.google.co
 
 --Sur votre envoronnement virtuel--
 
-    git clone drive/saksa/blablabla
+    git clone https://github.com/OlivierLesenfans/admin-google-public
     pip install --upgrade google-api-python-client
 
 #### Paramétrage des clés:
