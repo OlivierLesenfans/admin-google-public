@@ -2,7 +2,7 @@
 from googleapiclient.discovery import build
 from google.oauth2 import service_account
 
-from cle.comptes import *
+from cle.compte import *
 
 
 def parcourtTuple(t,l):
